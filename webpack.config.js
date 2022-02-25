@@ -2,6 +2,7 @@ const path = require("path");
 const BundleTracker = require("webpack-bundle-tracker");
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 
+
 module.exports = {
   entry: {
     frontend: "./frontend/src/index.js",
