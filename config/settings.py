@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     
     'webpack_loader',
     'frontend',
-    'triage',
+    
+    'backend.triage',
 ]
 
 WEBPACK_LOADER = {

@@ -1,5 +1,13 @@
-node_modules/
 __pycache__
+.vscode
+.DS_Store
+venv
+*.pyc
+enviroment.env
+credential-helper.sh
+build.sh
+Pipfile
+node_modules/
 env/
 frontend/static/frontend/
 *.sqlite3
