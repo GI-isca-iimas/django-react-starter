@@ -11,3 +11,4 @@ node_modules/
 env/
 frontend/static/frontend/
 *.sqlite3
+webpack-stats.json
